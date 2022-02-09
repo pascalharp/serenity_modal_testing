@@ -849,7 +849,7 @@ dependencies = [
 [[package]]
 name = "serenity"
 version = "0.10.9"
-source = "git+https://github.com/pascalharp/serenity?branch=modals#21200705f7d459648c9f69ed23fc462e00e43a43"
+source = "git+https://github.com/pascalharp/serenity?branch=modals#7adc7a97390272b12dce15d878b0ee4a5ee54393"
 dependencies = [
  "async-trait",
  "async-tungstenite",
